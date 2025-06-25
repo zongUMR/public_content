@@ -1,3 +1,23 @@
+#bybit
+DOMAIN,bybit-exchange.github.io
+DOMAIN,bybit.ada.support
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,bytick.com
+DOMAIN-SUFFIX,byapis.com
+DOMAIN-SUFFIX,bycbe.com
+DOMAIN-SUFFIX,bymj.io
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,bybit-global.com
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybit-aws.com
+DOMAIN-KEYWORD,bybit
+
 DOMAIN-SUFFIX, rabby.io
 DOMAIN-SUFFIX, jup.ag
 DOMAIN-SUFFIX, huma.finance #https://huma.finance/
@@ -5,7 +25,6 @@ DOMAIN-KEYWORD,backpack
 DOMAIN-SUFFIX,hyperliquid.xyz
 DOMAIN-SUFFIX,walletconnect.com
 DOMAIN-SUFFIX,krunker.io
-DOMAIN-KEYWORD,bybit
 DOMAIN,token-api.metaswap.codefi.network
 DOMAIN-SUFFIX,1inch.io
 DOMAIN-SUFFIX,1ml.com
@@ -54,7 +73,6 @@ DOMAIN-SUFFIX,bsc.getblock.io
 DOMAIN-SUFFIX,bscscan.com
 DOMAIN-SUFFIX,btc.com
 DOMAIN-SUFFIX,btcbox.co.jp
-DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,bytetree.com
 DOMAIN-SUFFIX,cbeci.org
 DOMAIN-SUFFIX,cex.io
