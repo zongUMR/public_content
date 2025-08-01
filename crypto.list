@@ -1,3 +1,6 @@
+DOMAIN-SUFFIX, api.ethos.network
+DOMAIN-SUFFIX, huma.finance
+
 #bybit
 DOMAIN,bybit-exchange.github.io
 DOMAIN,bybit.ada.support
