@@ -162,7 +162,7 @@ DOMAIN-SUFFIX,intotheblock.com
 DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,jaxx.io
 DOMAIN-SUFFIX,korbit.co.kr
-DOMAIN-SUFFIX,kraken.com
+# DOMAIN-SUFFIX,kraken.com # the kraken doesn't work with my ISP proxy, so comment it
 DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,lightning.community
 DOMAIN-SUFFIX,lightning.engineering
