@@ -2,7 +2,8 @@ DOMAIN-SUFFIX, ethos.network
 DOMAIN-SUFFIX, huma.finance
 DOMAIN-SUFFIX, crypto.com
 DOMAIN-SUFFIX, dune.com
-DOMAIN-SUFFIX, bnw3w.com #binance wallet
+#binance wallet
+DOMAIN-SUFFIX, bnw3w.com
 
 #htx
 DOMAIN-SUFFIX, htx.com
