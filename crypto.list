@@ -1,4 +1,3 @@
-DOMAIN-SUFFIX, bitget.com
 DOMAIN-SUFFIX, buidlpad.com
 DOMAIN-SUFFIX, ethos.network
 DOMAIN-SUFFIX, huma.finance
@@ -334,9 +333,7 @@ DOMAIN-SUFFIX, bitget.club
 DOMAIN-SUFFIX, bitget.xyz
 DOMAIN-SUFFIX, bitgetapp.com
 DOMAIN-SUFFIX, bitgetapps.com
-DOMAIN-SUFFIX, bitapi.api
 DOMAIN-KEYWORD, bitget
-DOMAIN-KEYWORD, bitkeep
 # > Huobi
 DOMAIN-SUFFIX,hbabit.com
 DOMAIN-SUFFIX,hbfile.net
