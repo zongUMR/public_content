@@ -549,6 +549,7 @@ DOMAIN-SUFFIX,gate.io
 # > Mexc
 DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,mexgstatic.com
+DOMAIN-KEYWORD,mexc
 
 # > Dapp
 DOMAIN-SUFFIX,sushi.com
